@@ -1,0 +1,8 @@
+# macOS directory files
+
+.DS_Store
+
+# presenterm output
+
+*.html
+*.pdf
