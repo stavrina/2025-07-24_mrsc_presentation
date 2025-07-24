@@ -1,8 +1,11 @@
 # macOS directory files
-
 .DS_Store
 
-# presenterm output
+# presenterm
+config.yaml
 
-*.html
+# presenterm output
 *.pdf
+
+# tools
+.venv/
